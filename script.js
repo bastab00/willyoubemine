@@ -1,8 +1,8 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
+    "Abeh yes bol",
+    "Please...",
     "Just think about it!",
     "If you say no, I will be really sad...",
     "I will be very sad...",
